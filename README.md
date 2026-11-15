@@ -50,7 +50,7 @@ scripts/
 tipos/
 utilitários/
 
---
+---
 
 ## 🔗 Backend
 
@@ -58,7 +58,7 @@ O backend utilizado pela aplicação foi desenvolvido por Damaris Elisangela Mor
 
 👉 https://github.com/Dammy-e/Projeto-crescer_juntos
 
---
+---
 
 👩‍💻 Autora
 Vanessa Beatriz Ody
