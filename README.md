@@ -1,7 +1,6 @@
-🌱 Crescer Juntos - Frontend
-React NativeExpoTypeScriptTCC
+🌱 # Crescer Juntos - Frontend
 
-📖 Sobre o Projeto
+📖 # Sobre o Projeto
 O Crescer Juntos é uma plataforma colaborativa voltada à troca, doação e compartilhamento de plantas ornamentais, hortaliças e medicinais.
 
 Este repositório contém o frontend da aplicação, desenvolvido em React Native como Trabalho de Conclusão de Curso (TCC) do curso de Tecnologia em Sistemas para Internet do Instituto Federal Catarinense (IFC) - Campus Camboriú.
