@@ -1,19 +1,52 @@
-# Crescer Juntos - Frontend
-Frontend do aplicativo Crescer Juntos desenvolvido em React Native.
+🌱 Crescer Juntos - Frontend
+React NativeExpoTypeScriptTCC
 
-# Objetivo
-O aplicativo Crescer Juntos foi desenvolvido para promover a troca, doação e compartilhamento de plantas ornamentais, hortaliças e medicinais entre usuários interessados em jardinagem, sustentabilidade e cultivo doméstico.
+📖 Sobre o Projeto
+O Crescer Juntos é uma plataforma colaborativa voltada à troca, doação e compartilhamento de plantas ornamentais, hortaliças e medicinais.
 
-# Tecnologias Utilizadas
+Este repositório contém o frontend da aplicação, desenvolvido em React Native como Trabalho de Conclusão de Curso (TCC) do curso de Tecnologia em Sistemas para Internet do Instituto Federal Catarinense (IFC) - Campus Camboriú.
+
+🚀 Funcionalidades
+Cadastro de usuários
+Autenticação de usuários
+Gerenciamento de perfil
+Cadastro de plantas
+Gerenciamento de plantas
+Envio e recebimento de mensagens
+Solicitação de trocas
+Gerenciamento de trocas
+Encerramento de sessão
+🛠️ Tecnologias Utilizadas
 React Native
 Expo
-JavaScript
+TypeScript
 Expo Router
-API REST
-# Autor
+Context API
+JavaScript
+📂 Estrutura do Projeto
+aplicativo/
+componentes/
+constantes/
+contexto/
+ganchos/
+recursos/
+scripts/
+tipos/
+utilitários/
+🔗 Backend
+O backend utilizado pela aplicação foi desenvolvido por Damaris Elisangela Moreira e encontra-se disponível em:
+
+https://github.com/Dammy-e/Projeto-crescer_juntos
+
+🎓 Trabalho de Conclusão de Curso
+Título: Crescer Juntos: Desenvolvimento do Frontend de uma Plataforma Colaborativa para Troca e Compartilhamento de Plantas
+
+Curso: Tecnologia em Sistemas para Internet
+
+Instituição: Instituto Federal Catarinense – Campus Camboriú
+
+👩‍💻 Autora
 Vanessa Beatriz Ody
 
-# Trabalho de Conclusão de Curso
-Tecnologia em Sistemas para Internet
-
-Instituto Federal Catarinense – Campus Camboriú
+📄 Licença
+Este projeto foi desenvolvido para fins acadêmicos como parte do Trabalho de Conclusão de Curso
